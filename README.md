@@ -1,2 +1,2 @@
-# Temperature-Web-with-API
-Simple temperature Web app using API.
+# User-Search-Web-with-API
+Simple user search Web app using API.
